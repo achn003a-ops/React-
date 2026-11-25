@@ -1,0 +1,11 @@
+.heading{
+    color: rgb(235, 222, 222);
+    background-color: rgb(231, 48, 48);
+    border-radius: 20px;
+    border-radius: 1px solid black;
+}
+
+.para{
+    background-color: rgb(199, 241, 47);
+    border-radius: 20px;
+}
