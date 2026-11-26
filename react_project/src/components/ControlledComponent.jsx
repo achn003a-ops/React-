@@ -11,7 +11,7 @@ const ControlledComponent = () => {
 
     })
 
-    const [errors , setErrors] = useState("")
+    const [errors , setErrors] = useState([])
 
 
     function handleChange (e){
