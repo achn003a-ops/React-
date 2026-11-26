@@ -129,12 +129,13 @@
 
 import React from "react";
 import Form from "./components/Form"
-import "./styles/first.css"
+import ControlledComponent from "./components/ControlledComponent";
+
 
 function App() {
   return (
     <>
-      <Form />
+      <ControlledComponent/>
     </>
   )
 }
